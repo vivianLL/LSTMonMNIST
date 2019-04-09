@@ -1,0 +1,2 @@
+# LSTMonMNIST
+TensorFlow实现单层及多层LSTM的MNIST分类和可视化
